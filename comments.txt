@@ -1,0 +1,404 @@
+Andrew Facchiano:It's so refreshing to find programming videos that are more then a powerpoint or a raw screen-cast. Thank you for putting this together, I really enjoyed it and feel it's very useful.
+
+scoop dee dee poop:no silly, Ajax is a cleaning solution I use to clean my toilets.
+
+Jon Fortner:This has a lot of content and flies by pretty fast making it hard to absorb. Maybe it needs split up or you need less coffee before presenting :-) Your REST API video was paced a lot better.
+
+Harsha Nalluru:you are a rapper..! :)
+
+Tim Titus:I feel like this guy's head might just explode at any moment....especially when he gets to talking super fast.
+
+Miles Wilson:Glad you're back
+
+Aymene Bourafai:i don't know if you were very fast so i couldn't understand, or i'm too beginner in order to understand all :v
+
+Darth Pro:the beginning was really helpful, i lost you once you started writing code
+
+SoulJah876:Gotta give thanks for YouTube allowing me to play this at 0.5 and 0.75 speed. Very informative though.
+
+Ajax Blair:That's actually me
+
+Ahmed H. Ebrahim:Welcome back mate, glad to see more videos from you glorious channel =)
+
+logesh log:Hi dude,
+pls keep on upload videos.
+
+Tom_Anks:Insanely helpful, thank you!
+
+BRMC888:First video in a year! please keep it up :) They're so helpful
+
+algor1th:you mean francis, right?
+
+Valentin Dragos:Thank you for the videos! :) You deserve more subs and views!
+
+Sumanth Burla:best way of explanation man !! love to hear more from you : )
+
+All About Family Travel:Great video but it is way too fast!!!
+
+Mandakranta Bose:got no idea as a beginner as typing "what is ajax" led me to this video on top :/
+
+Edgar Flores:Upload videos more often! They are great!
+
+Heriberto Roman:I thought AJAX was an old old wooden ship?      lol JK great vid thanks!
+
+Manon Libert:Man you're awesome ! I'm student in development and I love all video's you've made. Rest Api also great !
+
+Marco Taubert:best AJAX tutorial I've ever seen!
+
+Kevin Lang:You've made me so happy today! My learning curve is getting sliced in half!
+
+mihir vaghela:please post new videos
+
+Marc Murray:Happy to see you uploading again! Been looking every now and again by more from you. Great content, you really break stuff down until its easy to get.
+
+John Burks:Hey man, you did a really good job with your videos. I wish you had kept going. I hope someone is paying you to make this kind of content for them.
+
+Robert Von Zalaburg:The <div data-url> becomes $('#images').data('url'), is it due to the hyphen?
+
+Tao Li:Awesome explanations!
+
+alvin lu:Absolutely nailed it! Great explanation :)
+
+M. Daniels:tremendous information density!  I'm three years late on seeing this but great presentation
+
+aman shivhare:Thank you for the video. So excited to see you you back. I really am a fan of the quality videos covering so much so quickly and yet keeping it simple. It's a great help.
+
+Mike Sharov:I hope you continue to make these videos, they are awesome! :)
+
+Tshiamo Komane:Absolutely fantastic video! Thank you!
+
+Daris Shamsi:Great channel, subscribed. Keep making content!
+
+mystickid1:You are amazing at explaining web concepts. Thank you for the  great vid. I'm in a coding bootcamp and  you really helped me understand the concept. Will you be contuninuing to do more web concept videos like on  javascript, node, express, reactjs, etc?
+
+Ruslan Kolotilo:AWESOME EASY EXPLANATION! 🔥THANKS, A LOT!!! 👍🏽
+
+Tim appIe:AJAJ (xml -> json) sounds like it's from a ytp
+
+Farel Zzd:Love the examples you use to explain. Thanks!
+
+Amable De Los Santos:glad to see you back! your videos are awesome. Keep it up.
+
+Kobuxz:Very nice guide. Now I can improve my site ^^
+
+Jeffrey Librebowski:Hey, these are great videos. Wow
+
+Rhidlor:This video was surprisingly digestible and informative, thanks!
+
+H F:Make more content please :)
+
+Garth:Your videos get straight to the point, unlike any other tutorial ever! Keep them coming 😃
+
+muhammed jasim:I watched with playback speed 0.75x
+
+Pasha Petrosyan:had to watch the "callback=?" part twice to fully understand, feel like I have a good grasp on this workaround. But still don't quite understand why it's so easily bypassed. Is same-origin policy even useful anymore since you can get around it so easily?
+
+Khusela Mphokeli:Great tutorials bro,  Congratulations. You have won yourself a new subscriber.
+
+Zane Reeder:Very informative thanks! Going 1000mph though so maybe bringing it down just a tad would help some. Thanks again!
+
+Mubeen Inamdar:Brilliant tutorial. The most simple yet complete introduction to Ajax I have ever come across.
+
+shannon setter:god dame it when you think you dont know ajax then i saw this video and notice i have been using for years T.T
+
+Martin Groh:Just fantastic. Thank you.
+
+Damien Castagnozzi:Did I just do a line of coke before watching this or was this fast?
+
+Brian Brau:He'll be back any day now
+
+Hazem Sughayar:Perfect!
+
+Ko Badg:YES HE IS BACK! SO MUCH HAPPY!
+
+MJK:Can you please speak a little faster ? Too slow...Thank you ;)
+
+Emperor FX:Great, Your back to making new videos
+
+Leeous:Really helpful. Subbed & liked!
+
+Cassius SpaceTrain:so fast, so accurate, so good !!
+
+DrCod3r:where are you brother i love your tutorials ?
+
+Matt Finlay:Hey man, WHERE ARE YOU???
+
+David Donadze:I like fast paced videos. Thank u
+
+nikkolai fernandez:I liked the way you teach and not just a boring talk like other on the internet. I am happy that I found your channel. please keep it coming. :)
+
+Jaziel Tan:i love your videos. We don't have enough content that explain concepts rather mostly are step by step instructions to do things.
+
+Sandip Subedi:Great Explanation !
+
+Davis Dong:you speak too fast,I cant catch up with you.
+
+Ernesto Celis-Encinas:This video was fantastic! I understood about 30% bc i'm a beginner, but great video nonetheless!!!!
+
+Stefan Aleksik:Hey supper tutorial. It helped me to understand the basics of AJAX. I have one question: Why did you  put a questionmark for the callback instead of a function name?
+
+Mohammed Fateh:You need to make more tutorials! Yours are great and so easy to understand. You're able to demonstrate the concept super fast with clarity. Thank you!
+
+DurtyBomber:Sllloooooowwwwww Doooowwwwnnnnn!! You should have 1 less cup of coffee before doing this video. Way to fast to absorb anything this guy says. IMO.
+
+Enmanuelle Acuña:Too fast
+
+Tomáš Kalný:I think I need to slow down the video in some parts... He can speak so fast o.O .
+
+COVm1ke:why would you talk so fast on an instructional video? there's probably good content but its been made hard to absorb
+
+Peyo Angelov:Hey, whats happening with this chanal? I hope you start making new set of videos soon :(
+
+Region39:It's okay to separate videos into multiple parts =)
+
+irvinrules:you are great at explaining what thing are. thanks
+
+Thomas Jameson:Holy shit that JS/JQ code would have taken me like an hour to write. Need to get faster!
+
+Dillon Hansen:hey, this is good stuff here. yo should consider uploading more frequently.
+
+AnotherKentPaul:What editor are you using here?
+
+Abel Garrido:HE IS SPEAKING ENGLISH?! j/k that kinda helped...
+
+Danny Israel:wow, nice
+
+MonciakMax:wow after one year of no response, finally waiting for web presence part 2 and more
+
+Виталий Безгин:thanks man))
+U are really cool orator and teacher+
+
+Scott Smyth:Thanks, super clear
+
+Tammi Anthony:Dude! Slow down!
+
+Gaurav poudel:you man! you are awesome
+
+Dwi Nanda Susanto:what text editor do u use for this video?
+
+M.KASEM kaseeem:!thanks  very  but you Speak quickly
+
+Greg Van Bastelaar:Great video, for the first few minutes! But the practical example goes far too quickly and glosses over so many important topics -- of which could have probably benefited from Pt.2 video.
+
+Mahdi Karimi:Wow awesome
+
+L K:I love these videos! It's hard to find tutorials for people who are familiar with the terminology, but don't have experience putting it all together.
+
+Papa Aegon:It's so refreshing to find programming videos that are more then a powerpoint or a raw screen-cast. Thank you for putting this together, I really enjoyed it and feel it's very useful. (2)  ✌️
+
+Wp Customize:Nice to see you again.
+
+Neil:for all those that say too fast, just set the playback speed slower
+
+Ike O.:Bro you are speaking way too quickly.
+
+Jo Matthews:i think what you had in this video was some really good content and quite interesting but you just ran through it so fast that i had such a hard time understanding anything at all ...try to understand one thing and u have gone through 5 other things the next second
+
+Krishna Mohan:I request you to do more of such videos. I know this might not pay you so much as your other occupations. But it really helps beginners like me all over the world... The way you explain everything is so neat. Please do more!
+
+Ludovico Comito:Hi, how can I contact you in private?
+
+Péter Kovács:Where this man?New videos?
+
+Mahmoud Elaskare:great video
+
+Aparup Behera:What is the text editor you used in this video? Is there a better alternative?
+
+Mildo:Good video!
+
+77 ccc:pretty clean with demonstration
+
+AnotherKentPaul:What's the Editor's name you're working with?
+
+Ghetto Yhetti:Really helpful especially for beginners (in the "wetting your appetite" sense).  But one comment, "Dude decaf!" I think your subscribers would appreciate it if you had follow-on videos that explain this in more depth.But this was really good.  I hit pause multiple times and rewind and play again several times.Thanks!
+
+fayekhelmi:dude your videos are great although sometimes the information and speed of it can be a bit overwhelming but i get that you're trying to cram as much info in the shortest video length possible.i was trying to make a simple ajax post request to post to my twitter page, and it worked fine in postman but it gave me the allow origin thing error, though when i added the callback part like in your video nothing changed. (im trying to do it on codepen btw)so i dont really know wussup with that... i thought i understood ajax but holy molly was i mistaken!
+
+Dianne Rodriguez:Too fast
+
+Ruben de Vos:Very nice and clear explanation!
+
+Hunter Sandlin:I never would have guessed Justin Roiland would make some of the best webdev videos on youtube.
+
+Tabish A:What does 'p' stands for in jsonp ?
+Also is it possible to make a post request using ajax ?great tutorial btw..
+
+Mark Quitoriano:what's the IDE you're using?
+
+Akshay Chhangani:Can you help us out with the smaller facts mentioned in this video like.. callback parameter ... api getting added to the page as script tag... Just for beginners.?
+
+Antonio de Sousa:Excellent video tutorial, but a tad fast... wish you would create a series targeted for beginners at a slower pace... thanks!
+
+cormac liston:good content but explained too fast.
+
+Suneel Reddy:awesome
+
+Bo Lasater:These are really helpful videos -- at the right level of detail and easy to understand.  Thanks for the effort it took to make these.
+
+A.K.A-J:I legit thought Ajax was a cleaner
+
+wisdom chikwanda:good, but that speed?
+
+Zhengyu Wang:Hi, I visited Your linkedin profile and found that you learned philosophy and law at college. How can you become a skilled developer?
+
+Alexander Majano:["Ajax"
+me: huh...it sounds like soap]
+
+joe rose:#Jdeathtime Wolverine 88 I though it was a nice costume to.
+
+Khalid El-Gazzar:Nice video. So your next one is going to be in 2020?🤔🤔
+
+Remko:A football team from the Netherlands?
+
+Amit Singh:Which editor are you using here ?
+
+Your Wrong:Too fast? There's a speed option where you can slow it down. Bunch of dinguses
+
+Paul:are you a rapper?
+
+Andre de Werdt:Very nice video. Usual i skip ahead to get avoid the info for noobs but this video actually got me rewind a few times. Great Job !!!!!!
+Happy coder!!
+
+Ahmed Naser:dude how long have you been a web developer? and what languages do u recommend to learn first as a new one? I want to be a developer but with solid foundation to design, so I have learned html+css, and now im learning bootstrap and some javascript, next i was thinking php and maybe jquery? or what do u recommend?
+
+Pavan Kumar:way too fast to understand..
+
+Anoop Sai:The first few minutes of the video was pretty clear, being a beginner couldn't catch up the speed  after the that.
+
+Junk Man Channel:Does facebook uses Ajax?
+
+Maulik Pipaliya:which editor is this, can someone specify!?
+
+Arnold Machalaga:Okay what was happening there, i am just simply trying to get data from msql DB using ajax, that alone is cracking my head, and then Mr HIM there just shot me with a bunch of codes in which i had no clue what was happening....... Coding is going to kill me......
+
+Kurian Benoy:It was a bit fast , but also it explained AJAX to me in a real time way using Twitter example and you went on to add on things and we did a program too .Thanks
+
+Friendifie, Inc.:+WebConcepts what text editor are you using? It's gorgeous. More gorgeous than Sublime and Atom.
+
+whosup1:Too fast
+
+Yael Brown:Are you using Emmet in Visual Studio?
+
+Mikel:Ajax F.C
+
+Baqir Khan:You should mention your Facebook and twitter links in the description.
+
+alex savov:Could u talk a lil bit faster pls
+
+David Hahn:Fiend did you have too much coffee b4 making this video; kindly remember that if the people watching this weren't in a learning mode they wouldn't be here watching this! you went through the coding at lightening speed. What's up???
+
+oyze:#xlnt
+
+R W:wth,,,,great vid...why isnt there just a command that says 'change my pictures every 5 seconds.... '  i have to go get a degree to do this....
+can you do a video for jquery UI,,thats a joke as well just to get a slider .
+
+João Teixeira:I like short and straight content and that's exactly what you just delivered to us! Hoping to see this channel grow !
+
+Petter Bruland:Besides my drink being a bit warm, since I did not have ice cubes, which was a bit annoying, I had a great time watching this video. Thank you for your excellent communications skills.
+
+Sunil SE:Hands off
+
+Dhruv Nagarajan:What IDE is that? Looks like Android Studio to me...
+
+sghazi:I think you should have taken a leak before you started making this video....
+
+King Ijaz Malik: 1996:Ejaz Malik
+
+Edward Gomez:Why in all these tech videos the presenter speaks so fast? , it seems the common factor in all of them. Although great video content, Kudos..
+
+Simandan Adrian:Hi like your tutorials. Please make more. Maybe on SharePoint and Angular? Cheers from Romania!
+
+Jos VES:Joduh!!!!!!!
+
+Christophe Gélinas:Too much complicated this explanation
+
+SunKee Hong:You made SO MUCH SENSE. You have no idea how hard it is to find software tutorials that actually tries to understand the viewers and try to teach them. Thank you. Liked and subscribed.
+
+Erika Perley:This is  blindingly too fast. I'm lost trying to familiarize myself with these concepts are lost within the first few minutes. This is less a tutorial and more Ajax rap video.
+
+Adam DeRidder:I disagree with the comment that the pace is too fast. I love the fast pace. I would much rather do my own research on the parts that I don't understand than listen to someone explain something that I already know.
+
+King Ijaz Malik: 1996:Ajaz
+
+Mahlatse Tshehla:Awesome video
+
+King Ijaz Malik: 1996:Ijaz Malik
+
+RocketLR:I swear to god. If i hear or watch another tutorial with an incomprehensible accent and a potato microphone, I will blow my brains out! This channel is a life saver!
+
+Yaz Yaz:too fast
+
+Fultz 1813:No silly, Ajax is a Dutch team
+
+Jon Kubik:The way you edit these videos helps me understand this information so much more, thank you for explaining it in the way you do :)
+
+Bilal Yaqoob BY:i felt so bad after watching this video...
+
+R N:Great tutorial.  just what i was searching..  Thank you  soo much..  👍
+
+Rinjin Lama:Is a instagram api needs a special permission to fetch a data for my instagram app id.? because my data array is empty.
+
+bakarulez:It's not so cool to put your JS in your Header before the DOM finished loading.
+
+Rani Kheir:Have a small side question, the &callback technique you used, where else can we use it? Is it only for APIs that respond back with json data?PS: Already knew what AJAX is, but also had a feeling I'd learn something new if I watched this video, and I did! Which is why I always watch your videos :) Thanks!!
+
+ZEE IBIT:Please make a video illustrating the why XHR/cross-site fail (same origin detection..)
+and why JSONp works (call back)... why... how the server gereates the callback---
+but... please... talk slower!!! ;-)
+
+achengster4:Did this guy just hack twitter?
+
+Jiaqi LI:no good
+
+Competitiveforlolz:Nice, didn't know about JSON P and that it's a way to avoid the x domain issues.
+
+Kevin Tyrrell:Don't cover things like PHP, MySQL, Jqery, and so on in an AJAX video. ONLY cover AJAX otherwise students who have not been introduced to those concepts will not know what's going on.
+
+Thomas Jameson:I'd like to note your missing a / in the closing script tag around 8:29. Not a big deal for the purposes of this vid though. Great tutorial!
+
+youri369:Wij zijn AJAX wij zijn de beste!
+
+King Ijaz Malik: 1996:Ajaz is my Name
+
+Mancini21:Ajax is a football club ))
+
+Trones:Excellent explanation, but the concept is clear after the first minute and a half -- so that's really all I needed. I got a little lost in the middle (the implementation part) because I didn't have enough time to absorb the modifications you were making to your code. Maybe show us (with text) a short outline of the steps you are going to take so we can better follow along.
+
+TheCoffeeAddict:Alter playback speed to 0.75x and content is actually digestible.
+
+Andrewwjanssen:Ajax is were i live
+
+Talha Waheed:Hey man you are a great but please speak slowly if possible.
+
+A M:Slow down please!!
+
+Rahul Agarwal:Make a video on Angular js / node.js / backbone.js . They are very confusing and people dont know the benefits of this.
+
+Christian Fall:i don't understand it.. hmm.
+
+infinite gamer:my name is ajax
+
+Jacolby Green:This video is very nice.
+
+Shu Pesmerga:definitely not for somebody trying to learn Ajax for the first time. This is more life a refresher for pros. Started about basics, meaning and rough overview of AJax then BOOM!
+
+Kunal Rajput:Why is he jumping while talking..
+
+AjaxWallpapers:Ajax Amsterdam is one of the most successful soccer (FOOTBALL) club ever!
+
+Rk S:ppl who are saying its too fast..you'd be right , if we didn't have the ability to modify the playback speed. Easy fix, I'd probably hate the teacher if it wasn't for this. Now I love him, he's great. I'll give him the benefit of the doubt that he knew we could slow him down if we needed, and he could thus give an AWESOME presentation clocking in at barely 10 minutes. cheers
+
+Manny D:spoken and explained a tad bit too fast but thats where the pause button and 'think about it logically' actions become useful.Ajax is bascially a combination of using JS and XML (bi-directionaly) to send/retrieve data to and from a server without requiring a page refresh.  Thats pretty much what I understood from this video.  I did learn something new though,  Chromes Network dev tool area and how it can be used to monitor incoming data/responses.JS basicaly is the glue in this Ajax Model, which binds the client side and server side to give an almost seamless desktop like experience on web applications.
+
+Cheat Code:Dislike videos because ads waste your time
+
+Morshedul Islam:fast narrating spoils  the video  not to have a good rating. i don't like it. if you want to teach then narrate quite slowly. it seems that you are hurrying to respond to natural call
+
+Aditya Chavande:Please try to speak slow. It's hard to understand fast speaking
+
+Rafael Chunga:code source is not abailable
+
+Dustin B.:Thank you for the video!  I personally like how fast-paced the video is.  Then again, this video isn't designed for complete beginners or non-native, English speakers.
+
+50LL3KR4M:All the people that complain for him being fast, I just know that they are not programmers, and that they are ultra amateurs, someone that he is a programmer, or that he has the logic, can follow this fast pace, so give us a break and stop complain and go learn some English(i'm not complain i'm slow as well, and not good in English, But I'm not complain!!!!!), and some programming.
+
